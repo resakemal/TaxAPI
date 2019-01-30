@@ -13,16 +13,20 @@
 * **Method:**
 
   `POST`
+  
+* **URL Params** 
 
-* **Data Params**
+  None
 
-  {
+* **Data Params** 
+  
+  `{
     u : {
       name : [string],
       tax_code : [numeric],
       price: [numeric]
     }
-  }
+  }`
 
 * **Success Response:**
 
@@ -71,6 +75,14 @@
 * **Method:**
 
   `GET`
+  
+* **URL Params** 
+
+  None
+  
+* **Data Params** 
+
+  None
 
 * **Success Response:**
 
